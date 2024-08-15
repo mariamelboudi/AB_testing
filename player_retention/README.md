@@ -44,7 +44,7 @@ A final countplot visualises how many players returned at +1 or +7 days after do
 ![007_retention_plot_gate](https://github.com/user-attachments/assets/dc3438d5-5d15-4fff-a0d1-ce5943142267)
 
 ## Statistical analysis
-### Defining hypothesis
+### Defining the hypothesis
 
 **Null Hypothesis (H₀)**: There is no difference in player behavior between the two groups (gate_30 and gate_40).  
 **Alternative Hypothesis (H₁)**: There is a significant difference in player behavior between the two groups.
